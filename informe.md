@@ -66,31 +66,31 @@ Nginx es un servidor web de código abierto que permite atender solicitudes HTTP
 
 ## 8. Procedimiento
 
-Paso 1 se hizo un pull de la imagen de nginx para poder trabajar, luego se creo el contenedor configurando sus puertos a exponer 
+Paso 1: se hizo un pull de la imagen de nginx para poder trabajar, luego se creo el contenedor configurando sus puertos a exponer 
 
 <img width="1600" height="618" alt="Captura de pantalla 2026-10-15 145848" src="https://github.com/user-attachments/assets/2fa96fe8-6ae3-4099-af59-95fffabd7beb" />
 
-Paso 2 Luego se copio el archivo de index.html hacia la laptop para poder trabajar con esta
+Paso 2: Luego se copio el archivo de index.html hacia la laptop para poder trabajar con esta
 
 <img width="1321" height="85" alt="Captura de pantalla 2026-10-15 150050" src="https://github.com/user-attachments/assets/9d9f2c3b-8084-46e7-9c91-d55ddc776828" />
 
-Paso 3 se edito el archivo index.html con el editor de texto nano 
+Paso 3: se edito el archivo index.html con el editor de texto nano 
 
 <img width="1475" height="700" alt="Captura de pantalla 2026-10-15 160312" src="https://github.com/user-attachments/assets/753d4f33-67db-42a4-be28-4f7354193ac8" />
 
-Paso 4 se uso el comando cp para copiar este archivo ya editado hacia la ruta donde se encontraba mi contenedor de docker 
+Paso 4: se creo el segundo contenedor y se hizo uso del comando cp para copiar este archivo ya editado hacia la ruta donde se encontraba mi contenedor de docker 
 
 <img width="1383" height="172" alt="Captura de pantalla 2026-10-15 160750" src="https://github.com/user-attachments/assets/ad1edaf4-ac4a-4016-87e6-ac7caed920e7" />
 
-Paso 5 con el primer contenedor ya creado se volvio a editar el mismo archivo html ya que el primer contenedor ya guardo su estado 
+Paso 5: con el primer contenedor ya creado se volvio a editar el mismo archivo html ya que el primer contenedor ya guardo su estado 
 
 <img width="1467" height="612" alt="Captura de pantalla 2026-10-15 160805" src="https://github.com/user-attachments/assets/8a5dc87f-d1ad-414c-af0d-5fb3fd8a4853" />
 
-Paso 6 se copio este archivo ya editado al otro contenedor 
+Paso 6: se copio este archivo ya editado al otro contenedor 
 
 <img width="1283" height="150" alt="Captura de pantalla 2026-10-15 222012" src="https://github.com/user-attachments/assets/1c25eeab-717c-4a65-be71-c46bd26f76f3" />
 
-Paso 7 verificar el estado de estos contenedores 
+Paso 7: verificar el estado de estos contenedores 
 
 <img width="1917" height="1015" alt="Captura de pantalla 2026-10-15 160347" src="https://github.com/user-attachments/assets/6f73d7a6-d0c0-4761-ab0f-d2a6f6685ba7" />
 
