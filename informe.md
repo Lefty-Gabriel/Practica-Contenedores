@@ -100,7 +100,8 @@ Paso 7: verificar el estado de estos contenedores
 
 <img width="1917" height="1015" alt="Captura de pantalla 2026-10-15 160347" src="https://github.com/user-attachments/assets/6f73d7a6-d0c0-4761-ab0f-d2a6f6685ba7" />
 
-<img width="1917" height="1015" alt="Captura de pantalla 2026-10-15 161019" src="https://github.com/user-attachments/assets/208a4fa0-e801-4297-b519-481c4bc9c42d" />
+<img width="1917" height="717" alt="image" src="https://github.com/user-attachments/assets/a5a66ed5-4fb7-443e-81dc-87f8018e2832" />
+
 
 
 ## 9. Resultados esperados
